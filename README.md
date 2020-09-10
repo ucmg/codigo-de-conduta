@@ -2,7 +2,7 @@
 
 # Código de Conduta para Colaboradores
 Esse código de conduta define seus direitos e deveres como contribuidor dos projetos de código aberto da União Colegial de Minas Gerais (UCMG-OSS).
-![](https://opensource.guide/assets/images/illos/leadership.svg)
+![](https://images.unsplash.com/photo-1588613254750-cf5d89a29b66?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60)
 
 ## Nossa promessa
 
