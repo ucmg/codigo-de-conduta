@@ -1,5 +1,8 @@
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+
 # Código de Conduta para Colaboradores
 Esse código de conduta define seus direitos e deveres como contribuidor dos projetos de código aberto da União Colegial de Minas Gerais (UCMG-OSS).
+![](https://opensource.guide/assets/images/illos/leadership.svg)
 
 ## Nossa promessa
 
